@@ -1,0 +1,14 @@
+= Useful tools
+
+== JSON
+
+https://jqplay.org/#
+https://stedolan.github.io/jq/
+
+== logs
+
+http://lnav.org/
+
+== terminal
+
+https://www.iterm2.com/
